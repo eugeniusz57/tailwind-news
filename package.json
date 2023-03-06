@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tailwindcss build -i src/main.css -o public/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeniusz57/tailwind-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugeniusz57/tailwind-news/issues"
+  },
+  "homepage": "https://github.com/eugeniusz57/tailwind-news#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
